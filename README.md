@@ -1,16 +1,4 @@
-# React + Vite
+This project is an interactive memory card game built using React and Tailwind CSS, where players reveal hidden numbers by clicking on cards. The game uses a grid-based layout to display cards in a clean and modern glass-style design. When a card is clicked, it reveals its number, creating a realistic memory-game experience instead of a simple show-and-hide effect.
+ Tailwind CSS is used extensively to handle layout, spacing, animations, and responsiveness without writing custom CSS files. The project focuses on building interactive UI behavior, handling user clicks correctly, and maintaining a clean component structure.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was created as a hands-on practice to improve understanding of React state management, CSS Grid layouts, and animation techniques. It represents a practical frontend project that combines logic, animations, and responsive design in a single application.
